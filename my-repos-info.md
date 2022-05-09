@@ -37,7 +37,7 @@ Private repos:
 - https://github.com/sohale/bitsurf (in progress, premature)
 - https://github.com/sohale/proposals-cs
 - https://github.com/sohale/sspanel
-- https://github.com/sohale/gitbook-overleaf
+- https://github.com/sohale/gitbook-overleaf -- The book and papar I am writing
 - https://github.com/sohale/noter
 - https://github.com/sohale/nous
 - https://github.com/sohale/family-info -- shared
