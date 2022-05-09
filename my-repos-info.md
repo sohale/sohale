@@ -1,1 +1,67 @@
-test adding afile
+Sohail Siadat 🌟✨
+
+- [implisolid](https://github.com/sohale/implisolid)
+- https://github.com/sohale/smithbrown2003-example1
+- https://github.com/sohale/GPU-CUDA-mnc
+- https://github.com/sohale/mehr32 and https://github.com/sohale/jMusic
+- https://github.com/sohale/gbce-stock-market -- a toy stock market
+- https://github.com/sohale/snippets
+
+Misc:
+- [shaders](https://github.com/sohale/shaders) -- shader toys
+- [practice-invoice](https://github.com/sohale/practice-invoice) -- an exercie for high load of invoices
+- [mousepad-app](https://github.com/sohale/mousepad-app) -- Mousepad for Mehran
+- https://github.com/sohale/dilmajng2 -- cute little "view" -- ng2 css
+- https://github.com/sohale/cdwg
+- https://github.com/sohale/ProbabilityNonlinearTransformation
+- https://github.com/sohale/misc -- practice code
+- https://github.com/sohale/nn-it
+- https://github.com/sohale/Meteor-is-Awesome
+- Old 3D: https://github.com/sohale/jWater
+- https://github.com/sohale/PsychophysicsApplets
+- https://github.com/sohale/dilmajtemp -- A Crowd Language Development system. Contact sohale gmail dot com or A.F. about this
+- https://github.com/sohale/yrain
+- https://github.com/sohale/cs-glossaries
+- https://github.com/sohale/deep-colourize-js
+
+mp5-related:
+- https://github.com/sohale/implisolid
+- https://github.com/sohale/mp5-private
+- https://github.com/sohale/mp5slicer
+- https://github.com/sohale/implisolid-build
+- https://github.com/sohale/SkyBoxAtmosphere
+- 
+Private repos:
+- https://github.com/sohale/my_pp_ig -- Spike-time-based Bayesian decoding. Based on idea by lciti
+- https://github.com/sohale/mandegar -- mandegar and [mandegar-data](https://github.com/sohale/mandegar-data)
+- https://github.com/sohale/bitsurf (in progress, premature)
+- https://github.com/sohale/proposals-cs
+- https://github.com/sohale/sspanel
+- https://github.com/sohale/gitbook-overleaf
+- https://github.com/sohale/noter
+- https://github.com/sohale/nous
+- https://github.com/sohale/family-info -- shared
+- https://github.com/sohale/work-related
+- https://github.com/sohale/books
+- https://github.com/sohale/ancient-works (90s)
+- https://github.com/sohale/testility_tests_submitted -- codility tests
+- 
+Died empty:
+(Premature death:)
+- https://github.com/sohale/testmindmap
+What? Even I forgot:
+- https://github.com/sohale/ns-notebook/blob/master/cva.md
+- https://github.com/sohale/tropy1
+- https://github.com/sohale/testmindmap
+- https://github.com/sohale/nn-it
+- https://github.com/sohale/dummy-api-test -- Used for testing github API.
+- https://github.com/sohale/datasocial
+- (broken) https://github.com/sohale/react_practice
+- (empty prctically) https://github.com/sohale/interactive-demos
+- https://github.com/sohale/gRPC-Cpp-sohail-Example
+
+Deleting uato-forks:
+- https://github.com/sohale/grpc
+
+Other people:
+- (https://github.com/ali-fatolahi/dilmaj/tree/master/Dilmaj/app/src/main/java/com/dilmaj/hello)
