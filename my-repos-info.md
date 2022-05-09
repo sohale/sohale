@@ -63,5 +63,10 @@ What? Even I forgot:
 Deleting uato-forks:
 - https://github.com/sohale/grpc
 
+Contrinited to others:
+- https://github.com/sohale/tix
+
 Other people:
 - (https://github.com/ali-fatolahi/dilmaj/tree/master/Dilmaj/app/src/main/java/com/dilmaj/hello)
+
+- 
