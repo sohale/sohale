@@ -52,16 +52,16 @@ Private repos:
 Died empty:
 (Premature death:)
 - https://github.com/sohale/testmindmap
-What? Even I forgot:
-- https://github.com/sohale/ns-notebook/blob/master/cva.md
 - https://github.com/sohale/tropy1
 - https://github.com/sohale/testmindmap
 - https://github.com/sohale/nn-it
 - https://github.com/sohale/dummy-api-test -- Used for testing github API.
 - https://github.com/sohale/datasocial
+- https://github.com/sohale/gRPC-Cpp-sohail-Example
+What? Even I forgot:
+- https://github.com/sohale/ns-notebook/blob/master/cva.md
 - (broken) https://github.com/sohale/react_practice
 - (empty prctically) https://github.com/sohale/interactive-demos
-- https://github.com/sohale/gRPC-Cpp-sohail-Example
 
 Deleting auto-forks:
 - https://github.com/sohale/grpc
@@ -69,6 +69,7 @@ Deleting auto-forks:
 
 Contrinited to others:
 - https://github.com/sohale/tix
+- https://github.com/sohale/guy017meteor
 
 Other people:
 - (https://github.com/ali-fatolahi/dilmaj/tree/master/Dilmaj/app/src/main/java/com/dilmaj/hello)
