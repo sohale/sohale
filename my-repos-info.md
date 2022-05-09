@@ -11,7 +11,7 @@ Sohail Siadat 🌟✨
 - https://github.com/sosi-org/webgl-exercise
 - https://github.com/sosi-org/REST-practice (react, websocket, droplet, e2e)
 - https://github.com/sosi-org/chaintree
-- 
+
 Misc:
 - [shaders](https://github.com/sohale/shaders) -- shader toys
 - [practice-invoice](https://github.com/sohale/practice-invoice) -- an exercie for high load of invoices
@@ -23,7 +23,7 @@ Misc:
 - https://github.com/sohale/misc -- practice code
 - https://github.com/sohale/nn-it
 - https://github.com/sohale/Meteor-is-Awesome
-- Old 3D: https://github.com/sohale/jWater
+- Old 3D demo: https://github.com/sohale/jWater
 - https://github.com/sohale/PsychophysicsApplets
 - https://github.com/sohale/dilmajtemp -- A Crowd Language Development system. Contact sohale gmail dot com or A.F. about this
 - https://github.com/sohale/yrain -- yellow-rain
@@ -53,6 +53,8 @@ Dilm:
 - https://github.com/sosi-org/pylmaj
 - https://github.com/sohale/dilmajng2 -- cute little "view" -- ng2 css
 - https://github.com/sohale/dilmajtemp -- A Crowd Language Development system. Contact sohale gmail dot com or A.F. about this
+- (https://github.com/ali-fatolahi/dilmaj/tree/master/Dilmaj/app/src/main/java/com/dilmaj/hello) (not mine)
+
 
 
 Private repos:
@@ -99,6 +101,10 @@ Contrinited to others:
 - https://github.com/sohale/guy017meteor
 - https://github.com/sosi-org/recruitment (Refctores JS code with test)
 
-Other people:
-- (https://github.com/ali-fatolahi/dilmaj/tree/master/Dilmaj/app/src/main/java/com/dilmaj/hello)
+Lost code:
+- mehr32 (Audio)
+- reverberatov (vhdl code)
+- big3d
+- gui interactive (1996)
+- jwelves
 
