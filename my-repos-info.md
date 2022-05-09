@@ -20,7 +20,7 @@ Misc:
 - Old 3D: https://github.com/sohale/jWater
 - https://github.com/sohale/PsychophysicsApplets
 - https://github.com/sohale/dilmajtemp -- A Crowd Language Development system. Contact sohale gmail dot com or A.F. about this
-- https://github.com/sohale/yrain
+- https://github.com/sohale/yrain -- yellow-rain
 - https://github.com/sohale/cs-glossaries
 - https://github.com/sohale/deep-colourize-js
 
@@ -30,7 +30,10 @@ mp5-related:
 - https://github.com/sohale/mp5slicer
 - https://github.com/sohale/implisolid-build
 - https://github.com/sohale/SkyBoxAtmosphere
-- 
+
+My repos elsewhere:
+- https://github.com/8adam95/cloudySky (a fork-back: https://github.com/sohale/SkyBoxAtmosphere )
+
 Private repos:
 - https://github.com/sohale/my_pp_ig -- Spike-time-based Bayesian decoding. Based on idea by lciti
 - https://github.com/sohale/mandegar -- mandegar and [mandegar-data](https://github.com/sohale/mandegar-data)
@@ -60,8 +63,9 @@ What? Even I forgot:
 - (empty prctically) https://github.com/sohale/interactive-demos
 - https://github.com/sohale/gRPC-Cpp-sohail-Example
 
-Deleting uato-forks:
+Deleting auto-forks:
 - https://github.com/sohale/grpc
+- https://github.com/sohale/googletest [latest](https://github.com/sohale/googletest/commit/ecd530865cefdfa7dea58e84f6aa1b548950363d)
 
 Contrinited to others:
 - https://github.com/sohale/tix
