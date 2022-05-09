@@ -1,15 +1,15 @@
 Sohail Siadat 🌟✨
 
 - [implisolid](https://github.com/sohale/implisolid)
-- https://github.com/sohale/smithbrown2003-example1
-- https://github.com/sohale/GPU-CUDA-mnc
-- https://github.com/sohale/mehr32 and https://github.com/sohale/jMusic
+- https://github.com/sohale/smithbrown2003-example1 -- Kalman PointProces + InverseGaussian (Neuroscience)
+- https://github.com/sohale/GPU-CUDA-mnc -- Numerical computing, GPU, CUDA
+- https://github.com/sohale/mehr32 and https://github.com/sohale/jMusic (Audio)
 - https://github.com/sohale/gbce-stock-market -- a toy stock market
 - https://github.com/sohale/snippets
-- https://github.com/sosi-org/primsoup Deoms on Lagrange least Action principle
-- https://github.com/sosi-org/chaintree
-- https://github.com/sosi-org/webgl-exercise
+- https://github.com/sosi-org/primsoup -- Demos on Lagrange least Action principle (Physics)
+- https://github.com/sosi-org/webgl-exercise -- WebGL (OpenGL) (3D)
 - https://github.com/sosi-org/REST-practice (react, websocket, droplet, e2e)
+
 - https://github.com/sosi-org/chaintree
 
 Misc:
@@ -45,9 +45,7 @@ mp5-related:
 - https://github.com/sohale/mp5slicer
 - https://github.com/sohale/implisolid-build
 - https://github.com/sohale/SkyBoxAtmosphere
-
-My repos elsewhere:
-- https://github.com/8adam95/cloudySky (a fork-back: https://github.com/sohale/SkyBoxAtmosphere )
+- https://github.com/8adam95/cloudySky
 
 Dilm:
 - https://github.com/sosi-org/pylmaj
@@ -55,7 +53,9 @@ Dilm:
 - https://github.com/sohale/dilmajtemp -- A Crowd Language Development system. Contact sohale gmail dot com or A.F. about this
 - (https://github.com/ali-fatolahi/dilmaj/tree/master/Dilmaj/app/src/main/java/com/dilmaj/hello) (not mine)
 
-
+Music
+- https://github.com/sohale/mehr32
+- https://github.com/sohale/jMusic
 
 Private repos:
 - https://github.com/sohale/my_pp_ig -- Spike-time-based Bayesian decoding. Based on idea by lciti
@@ -100,6 +100,9 @@ Contrinited to others:
 - https://github.com/sohale/tix
 - https://github.com/sohale/guy017meteor
 - https://github.com/sosi-org/recruitment (Refctores JS code with test)
+
+My repos elsewhere:
+- https://github.com/8adam95/cloudySky (a fork-back: https://github.com/sohale/SkyBoxAtmosphere )
 
 Lost code:
 - mehr32 (Audio)
