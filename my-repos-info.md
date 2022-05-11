@@ -1,8 +1,8 @@
 Sohail Siadat 🌟✨
 
 - [implisolid](https://github.com/sohale/implisolid)
-- https://github.com/sohale/smithbrown2003-example1 -- Kalman PointProces + InverseGaussian (Neuroscience)
-- https://github.com/sohale/GPU-CUDA-mnc -- Numerical computing, GPU, CUDA
+- https://github.com/sohale/smithbrown2003-example1 -- 🧠 Kalman PointProcess + InverseGaussian (Neuroscience)
+- https://github.com/sohale/GPU-CUDA-mnc -- 📐 Numerical computing, GPU, CUDA
 - https://github.com/sohale/mehr32 and https://github.com/sohale/jMusic (Audio)
 - https://github.com/sohale/gbce-stock-market -- a toy stock market
 - https://github.com/sohale/snippets
@@ -111,3 +111,7 @@ Lost code:
 - gui interactive (1996)
 - jwelves
 
+Descriptions:
+- 🖥 📐Parallel numerical integration using Monte Carlo on GPU
+
+🧱🗳🪐🔬🎧🎤🖥🎼🌈✨📐🧠🧱🗳🪐🔬🌟✓
