@@ -1,4 +1,4 @@
-<img src="/5ff84343ae5e4e4bbd318692a0441345.png" alt="logo" width="300"  align="right"  />
+<img src="/logos/horiz-gold-logo-crop.png" alt="logo" width="300"  align="right"  />
 Sohail Siadat 🌟✨
 
 
