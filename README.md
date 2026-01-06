@@ -1,7 +1,9 @@
 <img src="/logos/horiz-gold-logo-crop.png" alt="logo" width="300"  align="right"  />
+<img src="https://www.shadertoy.com/media/shaders/3cVfWc.jpg" width="30"  alt=""  align="right" />
+
 Sohail Siadat 🌟✨
 
-<img src="https://www.shadertoy.com/media/shaders/3cVfWc.jpg" width="300"  alt="logo2"  align="right" />
+
 
 [1]: /5ff84343ae5e4e4bbd318692a0441345.png
 
